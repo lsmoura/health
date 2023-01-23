@@ -1,0 +1,8 @@
+.DS_Store
+*.zip
+*.xml
+bin/
+apple_health_export/
+
+.idea/
+.vscode/
